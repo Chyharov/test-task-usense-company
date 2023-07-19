@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-task-usense-company/static/css/main.4b49bb5f.css",
+    "main.js": "/test-task-usense-company/static/js/main.94e3fe7c.js",
+    "static/media/OpenSans-Regular.ttf": "/test-task-usense-company/static/media/OpenSans-Regular.77c09223204154ae8d43.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/test-task-usense-company/static/media/OpenSans-SemiBold.2f17aae884058c5a85df.ttf",
+    "index.html": "/test-task-usense-company/index.html",
+    "main.4b49bb5f.css.map": "/test-task-usense-company/static/css/main.4b49bb5f.css.map",
+    "main.94e3fe7c.js.map": "/test-task-usense-company/static/js/main.94e3fe7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b49bb5f.css",
+    "static/js/main.94e3fe7c.js"
+  ]
+}
